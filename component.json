@@ -9,7 +9,6 @@
     "type": "git",
     "url": "git://github.com/jonathan-fielding/SASS-Template.git"
   },
-  "main": "./sass",
   "licenses": [
     {
       "type": "MIT",
