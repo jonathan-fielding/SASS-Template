@@ -1,11 +1,12 @@
 @import "_h5bp/normalize.scss";
 @import "_h5bp/h5bp.scss";
 
-/* Virgin Active Mobile styles */
+/* Site styles */
 
 @import "_partials/layout.scss";
+@import "_partials/mediaqueries.scss";
 
-/* End Virgin Active Mobile styles */
+/* End Site styles */
 
 @import "_h5bp/helpers.scss";
-@import "_partials/mediaqueries.scss";
+
