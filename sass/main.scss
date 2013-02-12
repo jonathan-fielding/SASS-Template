@@ -1,12 +1,13 @@
-@import "_h5bp/normalize.scss";
-@import "_h5bp/h5bp.scss";
+@import "_h5bp/_normalize.scss";
+@import "_h5bp/_h5bp.scss";
 
 /* Site styles */
 
-@import "_partials/layout.scss";
-@import "_partials/mediaqueries.scss";
+@import "_partials/_variables.scss";
+@import "_partials/_layout.scss";
+@import "_partials/_mediaqueries.scss";
 
 /* End Site styles */
 
-@import "_h5bp/helpers.scss";
+@import "_h5bp/_helpers.scss";
 
